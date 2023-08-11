@@ -1,4 +1,4 @@
-@@ -0,0 +1,83 @@
+
 *{
     padding: 0;
     margin: 0;
@@ -21,11 +21,13 @@ header{
     justify-content: space-between;
     padding: 33px 9½;
     background: transparent;
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
 ul{
     list-style-type: none;
     overflow: hidden;
     text-align: right;
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 
 }
  li{
@@ -37,6 +39,7 @@ ul{
     padding: 12px 14px;
     color: white;
     text-align: right;
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
 }
 
  li a:hover{
