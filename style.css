@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background-image: url(https://wallpaperboat.com/wp-content/uploads/2022/03/10/80943/Obi-Wan-Kenobi-21.jpg);
+}
+header{
+    text-align: center;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100½;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 9½;
+    background: transparent;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    text-align: right;
+  
+}
+ li{
+    display: inline-block;
+}
+
+ li a{
+    display: flex;
+    padding: 12px 14px;
+    color: white;
+    text-align: right;
+}
+
+ li a:hover{
+    background-color: #111;
+}
+
+.logo{
+    font-size: 30px;
+    font-weight: 700;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.aktif{
+    background-color: #c87113;
+}
+
+body{
+    background-color: #262626;
+}
+.text{
+    color: #f2f2f2;
+    font-size: 30px;
+    padding: 200px;
+    width: 100½;
+     height: 100½;
+     margin: auto;
+    text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
+}
+
+.kutu{
+    margin: 0 auto;
+    width: 240px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    text-align: center;
+    right: 0;
+    top: 0;
+    z-index: 1000;
+    width: 100½;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 33px 9½;
+}
