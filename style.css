@@ -43,7 +43,7 @@ ul{
 }
 
 .logo{
-    font-size: 30½;
+    font-size: 30px;
     font-weight: 700;
     color: rgb(255, 255, 255);
     text-align: center;
@@ -57,9 +57,9 @@ body{
 }
 .text{
     color: #f2f2f2;
-    font-size: 30½;
-    padding: 200½;
-    width: 100½;
+    font-size: 30px;
+    padding: 200px;
+    width: 100px;
      height: 100½;
      margin: auto;
     text-shadow: 6px 6px 0px rgba(0,0,0,0.2);
@@ -67,7 +67,7 @@ body{
 
 .kutu{
     margin: 0 auto;
-    width: 240½;
+    width: 240px;
     padding: 10px;
     text-align: center;
     border-radius: 10px;
